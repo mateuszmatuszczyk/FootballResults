@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<rss version="2.0">
         <channel>
-            <title>WAD PROJECT</title>
-			<description>Description of our RIA</description>
+            <title>WAD PROJECT RSS</title>
+			<description>Description of our RIA RSS</description>
             <link>ria_project.gopagoda.io</link>
             <item>
                 <title>
                     page one
                 </title>
-            </item>
-            <description>
-            description of page heyor!
-            </description>
+            <description>description of page heyor!</description>
+			</item>
 		</channel>
 	</rss>
