@@ -3,7 +3,7 @@
         <channel>
             <title>WAD PROJECT RSS</title>
 			<description>Description of our RIA RSS</description>
-            <link>ria_project.gopagoda.io</link>
+            <link>ria_project.gopagoda.io/rss.xml</link>
             <item>
                 <title>
                     page one
