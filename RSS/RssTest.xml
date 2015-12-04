@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="RSS/RssXsl.xsl" ?>
+<?xml-stylesheet type="text/css" href="RSS/RssFeed.css" ?>
 <rss version="2.0">
   <channel>
-    <generator>RSS Builder</generator>
-    <title>RSS</title>
+
+    <title>Premier League</title>
     <link>ria_project.gopagoda.io/index.htm</link>
-    <description>RSS Feed</description>
+    <description>The latest fixtures and results</description>
     <language>en-us</language>
+    <copyright>Copyright 2015</copyright>
+    <docs>ria_project.gopagoda.io/index.htm</docs>
+    
     <image>
       <title>RSS</title>
       <link>http://www.ria_project.gopagoda.io</link>
@@ -13,11 +18,20 @@
       <width>144</width>
       <height>144</height>
     </image>
+    
     <item>
-      <title>RIA Test</title>
+      <title>Daily Fixtures</title>
+      <description>This will be the daily fixtures for games in the Premier League</description>
       <pubDate>Mon, 23 Nov 2015 15:29:38 GMT</pubDate>
       <link>http://www.ria_project.gopagoda.io</link>
-      <description><![CDATA[Visit this <a href="http://www.ria_project.gopagoda.io">link </a> to my website!]]></description>
     </item>
+    
+    <item>
+      <title>Daily Results</title>
+      <description>Daily Results of games in the Premier League</description>
+      <pubDate>Fri, 4 Dec 2015 15:01:46 GMT</pubDate>
+      <link>http://www.ria_project.gopagoda.io</link>
+    </item>
+    
   </channel>
 </rss>
