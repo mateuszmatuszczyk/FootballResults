@@ -17,12 +17,12 @@
 		</score>
 	</match>
 	
-	<match id="1">
-		<homeTeam>Manchester United</homeTeam>
-		<awayTeam>Everton</awayTeam>
+	<match id="2">
+		<homeTeam>Bournemouth</homeTeam>
+		<awayTeam>Aston Villa</awayTeam>
 		<date>08/08/2015</date>
 		<score>
-			<homeTeamGoals>3</homeTeamGoals>
+			<homeTeamGoals>0</homeTeamGoals>
 			<awayTeamScore>1</awayTeamGoals>
 		</score>
 	</match>
