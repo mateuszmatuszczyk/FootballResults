@@ -29,97 +29,97 @@
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M2">
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M3">
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M4">
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>4</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M5">
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M6">
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M7">
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>09/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M8">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>09/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M9">
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>09/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M10">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>10/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -128,97 +128,97 @@
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>14/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M12">
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>15/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M13">
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>08/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M14">
 			<homeTeam>Watford</homeTeam>
-			<awayTeam>West Brom</awayTeam></awayTeam>
+			<awayTeam>West Brom</awayTeam>
 			<date>15/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M15">
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>15/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M16">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
 			<date>15/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M17">
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>15/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M18">
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>16/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M19">
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>16/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M20">
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>17/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -227,97 +227,97 @@
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M22">
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>4</awayTeamGoals>
-			</score>
+				<awayTeamGoals>4</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M23">
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M24">
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M25">
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M26">
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>22/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M27">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>23/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M28">
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>23/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M29">
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>23/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M30">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>24/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -326,97 +326,97 @@
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M32">
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M33">
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M34">
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M35">
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M36">
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M37">
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M38">
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M29">
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>30/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M40">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>30/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -425,97 +425,97 @@
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M42">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M43">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M44">
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M45">
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M46">
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M47">
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>12/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M48">
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>13/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M49">
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>13/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M50">
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
 			<date>14/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -524,97 +524,97 @@
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M52">
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M53">
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M54">
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M55">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M56">
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M57">
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>19/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M58">
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>20/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M59">
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>20/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M60">
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>20/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -623,97 +623,97 @@
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>4</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M62">
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M63">
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M64">
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M65">
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>5</awayTeamGoals>
-			</score>
+				<awayTeamGoals>5</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M66">
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M67">
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M68">
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>26/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M69">
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>27/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M70">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>28/09/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -722,97 +722,97 @@
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M72">
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M73">
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M74">
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M75">
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>6</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M76">
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M77">
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>03/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M78">
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>04/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M79">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>04/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M80">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>04/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
@@ -821,947 +821,694 @@
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M82">
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>5</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M83">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M84">
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M85">
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M86">
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M87">
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M88">
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>17/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M89">
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>18/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>6</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		<match id="M90">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>19/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W10">
-<<<<<<< HEAD
 		<match id="M91">
-=======
-		<match id="M101">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M92">
-=======
-		<match id="M102">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M93">
-=======
-		<match id="M103">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M94">
-=======
-		<match id="M104">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M95">
-=======
-		<match id="M105">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M96">
-=======
-		<match id="M106">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>24/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M97">
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
-=======
-		<match id="M107">
-			<homeTeam>Sunderland</homeTeam>
-			<awayTeam>Newcastle</awayTeam>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<date>25/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M98">
-=======
-		<match id="M108">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>25/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M99">
-=======
-		<match id="M109">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>25/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>5</awayTeamGoals>
-			</score>
+				<awayTeamGoals>5</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M10">
-=======
-		<match id="M110">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>25/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W11">
-<<<<<<< HEAD
 		<match id="M101">
-=======
-		<match id="M111">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M102">
-=======
-		<match id="M112">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M103">
-=======
-		<match id="M113">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M104">
 			<homeTeam>Newcastle United</homeTeam>
-=======
-		<match id="M114">
-			<homeTeam>Newcastle City</homeTeam>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<awayTeam>Stoke City</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M105">
-=======
-		<match id="M115">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M106">
-=======
-		<match id="M116">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M107">
-=======
-		<match id="M117">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>31/10/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M108">
-=======
-		<match id="M118">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>01/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>6</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M109">
-=======
-		<match id="M119">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>01/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M110">
-=======
-		<match id="M120">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>02/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W12">
-<<<<<<< HEAD
 		<match id="M111">
-=======
-		<match id="M121">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M112">
-=======
-		<match id="M122">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M113">
-=======
-		<match id="M123">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M114">
-=======
-		<match id="M124">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M115">
-=======
-		<match id="M125">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M116">
-=======
-		<match id="M126">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>Everton</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M117">
-=======
-		<match id="M127">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>07/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M118">
-=======
-		<match id="M128">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>08/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M119">
-=======
-		<match id="M129">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>08/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M120">
-=======
-		<match id="M130">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>08/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W13">
-<<<<<<< HEAD
 		<match id="M121">
-=======
-		<match id="M131">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M122">
-=======
-		<match id="M132">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M123">
-=======
-		<match id="M133">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Aston Villa</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>4</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M124">
-=======
-		<match id="M134">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Southampton</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M125">
-=======
-		<match id="M135">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M126">
-=======
-		<match id="M136">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>2</awayTeamGoals>
-			</score>
+				<awayTeamGoals>2</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M127">
-=======
-		<match id="M137">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M128">
-=======
-		<match id="M138">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>21/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>4</awayTeamGoals>
-			</score>
+				<awayTeamGoals>4</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M129">
-=======
-		<match id="M139">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>22/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>4</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M130">
-=======
-		<match id="M140">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>23/11/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W14">
-<<<<<<< HEAD
 		<match id="M131">
-=======
-		<match id="M141">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Bournemouth</homeTeam>
 			<awayTeam>Evertonr</awayTeam>
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M132">
-=======
-		<match id="M142">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Sunderland</homeTeam>
 			<awayTeam>Stoke City</awayTeam>
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M133">
-=======
-		<match id="M143">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Manchester City</homeTeam>
 			<awayTeam>Southampton</awayTeam>
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M134">
-=======
-		<match id="M144">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Aston Villa</homeTeam>
 			<awayTeam>Watford</awayTeam>
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M135">
 			<homeTeam>Crystal Palace</homeTeam>
 			<awayTeam>Newcastle United</awayTeam>
-=======
-		<match id="M145">
-			<homeTeam>Crystal Palace</homeTeam>
-			<awayTeam>Newcastle</awayTeam>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>5</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M136">
-=======
-		<match id="M146">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Leicester City</homeTeam>
 			<awayTeam>Manchester United</awayTeam>
 			<date>28/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-<<<<<<< HEAD
 		<match id="M137">
-=======
-		<match id="M147">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Tottenham</homeTeam>
 			<awayTeam>Chelsea</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M138">
-=======
-		<match id="M148">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Liverpool</homeTeam>
 			<awayTeam>Swansea City</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M139">
-=======
-		<match id="M149">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>West Ham United</homeTeam>
 			<awayTeam>West Brom</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
-<<<<<<< HEAD
 		<match id="M140">
-=======
-		<match id="M150">
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
 			<homeTeam>Norwich City</homeTeam>
 			<awayTeam>Arsenal</awayTeam>
 			<date>29/08/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
 	<week id="W15">
-<<<<<<< HEAD
 		<match id="M141">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-=======
-		<match id="M151">
-			<homeTeam>Arsenal</homeTeam>
-			<awayTeam>Sunderland</awayTeam>
-			<date>05/12/2015</date>
-			<score>
-				<homeTeamGoals>3</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-		<match id="M152">
-			<homeTeam>West Brom</homeTeam>
-			<awayTeam>Tottenham</awayTeam>
-			<date>05/12/2015</date>
-			<score>
-				<homeTeamGoals>1</homeTeamGoals>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
-		</match>
-		
-<<<<<<< HEAD
 		<match id="M142">
 			<homeTeam>Stoke City</homeTeam>
 			<awayTeam>Manchester City</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M143">
 			<homeTeam>Arsenal</homeTeam>
 			<awayTeam>Sunderland</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>3</homeTeamGoals>
-=======
-		<match id="M153">
-			<homeTeam>Swansea City</homeTeam>
-			<awayTeam>Leicester City</awayTeam>
-			<date>05/12/2015</date>
-			<score>
-				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
-		<match id="M154">
-			<homeTeam>Chelsea</homeTeam>
-			<awayTeam>Bournemouth</awayTeam>
-			<date>05/12/2015</date>
-			<score>
-				<homeTeamGoals>0</homeTeamGoals>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
-		</match>
-		
-<<<<<<< HEAD
 		<match id="M144">
 			<homeTeam>West Brom</homeTeam>
 			<awayTeam>Tottenham</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>1</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-=======
-		<match id="M155">
-			<homeTeam>Newcastle United</homeTeam>
-			<awayTeam>Liverpool</awayTeam>
-			<date>06/12/2015</date>
-			<score>
-				<homeTeamGoals></homeTeamGoals>
-				<awayTeamScore></awayTeamGoals>
->>>>>>> 3549dfb1c9609ed9321e0bd5e3747798cc7dc821
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M145">
 			<homeTeam>Watford</homeTeam>
 			<awayTeam>Norwich City</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>2</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M146">
 			<homeTeam>Manchester United</homeTeam>
 			<awayTeam>West Ham United</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>0</awayTeamGoals>
-			</score>
+				<awayTeamGoals>0</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M147">
 			<homeTeam>Swansea City</homeTeam>
 			<awayTeam>Leicester City</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>3</awayTeamGoals>
-			</score>
+				<awayTeamGoals>3</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M148">
 			<homeTeam>Chelsea</homeTeam>
 			<awayTeam>Bournemouth</awayTeam>
 			<date>05/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals>0</homeTeamGoals>
-				<awayTeamScore>1</awayTeamGoals>
-			</score>
+				<awayTeamGoals>1</awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M149">
 			<homeTeam>Newcastle United</homeTeam>
 			<awayTeam>Liverpool</awayTeam>
 			<date>06/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals></homeTeamGoals>
-				<awayTeamScore></awayTeamGoals>
-			</score>
+				<awayTeamGoals></awayTeamGoals>
+			</Goals>
 		</match>
 		
 		<match id="M150">
 			<homeTeam>Everton</homeTeam>
 			<awayTeam>Crystal Palace</awayTeam>
 			<date>07/12/2015</date>
-			<score>
+			<Goals>
 				<homeTeamGoals></homeTeamGoals>
-				<awayTeamScore></awayTeamGoals>
-			</score>
+				<awayTeamGoals></awayTeamGoals>
+			</Goals>
 		</match>
 	</week>
 	
