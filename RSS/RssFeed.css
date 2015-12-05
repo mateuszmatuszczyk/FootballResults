@@ -6,7 +6,8 @@ channel item title {
  font-size:100%;
 }
 
-channel link, channel language, channel copyright, channel managingEditor, channel webMaster, channel docs, channel lastBuildDate {
+channel link, channel language, channel copyright, channel managingEditor, channel webMaster, channel docs, channel lastBuildDate,
+channel dc:creator {
     display:none;
 }
 rss {
