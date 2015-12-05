@@ -1,9 +1,12 @@
 <?xml version="1.0"?>
 <premierleague>
 <teams>
-<team id="1">AFC Bournemouth</team>
-<team id="2">Arsenal</team>
-<team id="3">Aston Villa</team>
+<team id="t1">AFC Bournemouth</team>
+<team id="t2">Arsenal</team>
+<team id="t3">Aston Villa</team>
+<team id="t4">Chelsea</team>
+<team id="t5">Crystal Palace</team>
+<team id="t6">Everton</team>
 </teams>
 
 <fixtures>
