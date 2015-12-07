@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:template match="/rss">
+<xsl:template match="/">
     <html>
     <head>
-        <link href="xsl.css" rel="stylesheet" type="text/css" />
+        <link href="RssFeed.css" rel="stylesheet" type="text/css" />
         <style type="text/css">
             body {
                 font-size:0.83em;

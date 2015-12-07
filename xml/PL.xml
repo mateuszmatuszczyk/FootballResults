@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
 <premierleague>
 <teams>
 <team id="T1">AFC Bournemouth</team>
@@ -17,7 +18,7 @@
 <team id="T14">Stoke City</team>
 <team id="T15">Sunderland</team>
 <team id="T16">Swansea City</team>
-<tean id="T17">Tottenham Hotspur</tean>
+<team id="T17">Tottenham Hotspur</team>
 <team id="T18">Watford</team>
 <team id="T19">West Bromwich Albion</team>
 <team id="T20">West Ham United</team>

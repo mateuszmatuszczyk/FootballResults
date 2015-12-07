@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>bootstrap  </title>
+		<title>Home Page  </title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/styles.css" rel="stylesheet">
+		    <xsl:template match="/">
 	</head>
 		<body>
+
 		
 		<div class="navbar navbar-inverse navbar-static-top">
             <div class="container">
@@ -80,7 +82,32 @@
                   
                 </div>
             </div>
+<div class="table">
+  <h2>Week:
+    <xsl:for-each select="premierleague/fixtures">
+      <xsl:value-of select="week/@id"/>
+    </xsl:for-each>
+  </h2>
+    <table border="1">
+      <tr bgcolor="#9acd32">
+        <th style="text-align:left">Date</th>
+        <th style="text-align:left">Home Team</th>
+        <th style="text-align:left">Away Team</th>
+        <th style="text-align:left">Result</th>
+      </tr>
+      <xsl:for-each select="premierleague/fixtures/week[@id='W1']/match">
 
+
+      <tr>
+        <td><xsl:value-of select="date"/></td>
+        <td><xsl:value-of select="homeTeam"/></td>
+        <td><xsl:value-of select="awayTeam"/></td>
+        <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+        <xsl:value-of select="Goals/awayTeamGoals"/></td>
+      </tr>
+      </xsl:for-each>
+    </table>
+</div>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
 		
