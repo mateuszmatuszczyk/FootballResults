@@ -7,7 +7,17 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<link href="css/bootstrap.min.css" rel="stylesheet"/> 
 		<link href="css/styles.css" rel="stylesheet"/>
-		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("#week1").fadeToggle("slow");
+			$("button").click(function(){
+				$("#week1").fadeToggle("slow");
+				
+			});
+		});
+		</script>
 	</head>
 		<body>
 		
@@ -38,6 +48,7 @@
                     </div> 
             </div>
         </div>
+        
         
         <div class="container">
         <div class="table">
@@ -75,15 +86,16 @@
             </a>
         </div>
         
+        
         </div>
     
-        <div class="table">
-  <h2>Week:
+<div class="table">
+  <button class="btn btn-primary">Click to see Week 1 Results</button><br /><br />
     <xsl:for-each select="premierleague/fixtures">
       <xsl:value-of select="week/@id"/>
     </xsl:for-each>
-  </h2>
-    <table border="1">
+ 
+    <table id="week1" border="1" class="table table-bordered">
       <tr bgcolor="#9acd32">
         <th style="text-align:left">Date</th>
         <th style="text-align:left">Home Team</th>
@@ -113,8 +125,7 @@
                 </div>
             </div>
 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-		<script src="js/bootstrap.js"></script>
+
 		
 		
 		
