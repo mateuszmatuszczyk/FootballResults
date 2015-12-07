@@ -9,15 +9,29 @@
 		<link href="css/styles.css" rel="stylesheet"/>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
-		<script>
+	<script>
 		$(document).ready(function(){
 			$("#week1").fadeToggle("slow");
+				$("img").fadeToggle("slow");
 			$("button").click(function(){
 				$("#week1").fadeToggle("slow");
+				$("img").fadeToggle("slow");
 				
 			});
 		});
 		</script>
+		<script> 
+		$(document).ready(function(){
+			$("#flip").click(function(){
+				$("#panel").slideToggle("slow");
+			});
+		});
+		</script>
+		<script>
+		$j('.btn btn-primary').click(function(){
+    alert('Button Clicked');
+})
+</script>
 	</head>
 		<body>
 		
@@ -51,32 +65,30 @@
         
         
         <div class="container">
-        <div class="table">
-  <h2>Week:
-    <xsl:for-each select="premierleague/fixtures">
-      <xsl:value-of select="week/@id"/>
-    </xsl:for-each>
-  </h2>
-    <table border="1">
-      <tr bgcolor="#9acd32">
-        <th style="text-align:left">Date</th>
-        <th style="text-align:left">Home Team</th>
-        <th style="text-align:left">Away Team</th>
-        <th style="text-align:left">Result</th>
-      </tr>
-      <xsl:for-each select="premierleague/fixtures/week[@id='W1']/match">
+            <div class="col-md-6">
+            <button class="btn btn-primary" type="button">Click to see Week 1 Results</button><br /><br />
+            <table id="week1" border=".5" class="table table-bordered">
 
 
-      <tr>
-        <td><xsl:value-of select="date"/></td>
-        <td><xsl:value-of select="homeTeam"/></td>
-        <td><xsl:value-of select="awayTeam"/></td>
-        <td><xsl:value-of select="Goals/homeTeamGoals"/>:
-        <xsl:value-of select="Goals/awayTeamGoals"/></td>
-      </tr>
-      </xsl:for-each>
-    </table>
-</div>
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W1']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+        </div>
         
         <div id="rss">
             <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
@@ -87,34 +99,9 @@
         </div>
         
         
-        </div>
+    </div>
     
-<div class="table">
-  <button class="btn btn-primary">Click to see Week 1 Results</button><br /><br />
-    <xsl:for-each select="premierleague/fixtures">
-      <xsl:value-of select="week/@id"/>
-    </xsl:for-each>
- 
-    <table id="week1" border="1" class="table table-bordered">
-      <tr bgcolor="#9acd32">
-        <th style="text-align:left">Date</th>
-        <th style="text-align:left">Home Team</th>
-        <th style="text-align:left">Away Team</th>
-        <th style="text-align:left">Result</th>
-      </tr>
-      <xsl:for-each select="premierleague/fixtures/week[@id='W2']/match">
 
-
-      <tr>
-        <td><xsl:value-of select="date"/></td>
-        <td><xsl:value-of select="homeTeam"/></td>
-        <td><xsl:value-of select="awayTeam"/></td>
-        <td><xsl:value-of select="Goals/homeTeamGoals"/>:
-        <xsl:value-of select="Goals/awayTeamGoals"/></td>
-      </tr>
-      </xsl:for-each>
-    </table>
-</div>
             
         
              <div class="navbar navbar-inverse navbar-default navbar-fixed-bottom">

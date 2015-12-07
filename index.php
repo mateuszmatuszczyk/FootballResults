@@ -2,7 +2,7 @@
 
 //Load the xml file
 $xml = new DOMDocument;
-$xml-> load('xml/PL.xml');
+$xml -> load('xml/PL.xml');
 $xsl = new DOMDocument;
 $xsl -> subsituteEntities = true;
 $xsl -> load('index.xsl');
