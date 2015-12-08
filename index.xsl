@@ -353,11 +353,36 @@
             </xsl:for-each>
             </table>
             
-            </div>
-            <div class="col-md-6">
-
-            </div>
-
+    </div>
+             <div class="col-md-6">
+                <form action="index.php" method="post" class="form-inline">
+                    <div class="form-group">
+                         <input type="text" class="form-control" name="homeTeam" id="inputHT" placeholder="Home team">
+                         </input>
+                    </div>
+                </form>
+                <form class="form-inline">
+                    <div class="form-group">
+                         <input type="text" class="form-control" name="awayTeam" id="inputAT" placeholder="Away Team">
+                         </input>
+                    </div>
+                </form>
+                <form class="form-inline">
+                    <div class="form-group">
+                         <input type="text" class="form-control" id="inputDate" placeholder="Date">
+                         </input>
+                    </div>
+                </form>
+                <form class="form-inline">
+                    <div class="form-group">
+                         <input type="text" class="form-control" id="inputResult" placeholder="result">
+                         </input>
+                    </div>
+                </form>
+                <button type="button" class="btn btn-primary">submit</button>
+           </div>
+           
+          
         
             <div id="rss">
                 <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
@@ -372,7 +397,6 @@
                 <div class="container">
                     <p class="navbar-text pull-left">Created by Sam Quigley, Cian Harford &amp; Mateusz Matuszczyk.</p>
                     <a href="#" class="navbar-btn btn btn-danger pull-right">Subscribe on youtube</a>
-                  
                 </div>
             </div>
 
