@@ -39,7 +39,7 @@
 			$("#week5").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn5").click(function(){
-				$("#week6").fadeToggle("slow");
+				$("#week5").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 				
 			});
