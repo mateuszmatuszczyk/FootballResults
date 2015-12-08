@@ -9,28 +9,8 @@
 		<link href="css/styles.css" rel="stylesheet"/>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
-		<script>
-		    $(document).ready(function(){
-			$("#week1").fadeToggle("slow");
-				$("img").fadeToggle("slow");
-			$("#Btn1").click(function(){
-				$("#week1").fadeToggle("slow");
-				$("img").fadeToggle("slow");
-				
-			});
-		    });
-		</script>
-		<script>
-		    $(document).ready(function(){
-			$("#week2").fadeToggle("slow");
-				$("img").fadeToggle("slow");
-			$("#Btn2").click(function(){
-				$("#week2").fadeToggle("slow");
-				$("img").fadeToggle("slow");
-				
-			});
-		    });
-		</script>
+	    <script src="js/buttonScript.js"></script>
+	    
 
     </head>
  <body>
