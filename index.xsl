@@ -13,7 +13,7 @@
 		    $(document).ready(function(){
 			$("#week1").fadeToggle("slow");
 				$("img").fadeToggle("slow");
-			$("button").click(function(){
+			$("#Btn1").click(function(){
 				$("#week1").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 				
@@ -24,7 +24,7 @@
 		    $(document).ready(function(){
 			$("#week2").fadeToggle("slow");
 				$("img").fadeToggle("slow");
-			$("button").click(function(){
+			$("#Btn2").click(function(){
 				$("#week2").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 				
@@ -65,10 +65,8 @@
         
         
         <div class="container">
-            <div class="main">
-                <div class="btn1">
             <div class="col-md-6">
-            <button class="btn btn-primary" type="button">Click to see Week 1 Results</button><br /><br />
+            <button  id="Btn1" class="btn btn-primary" type="button">Click to see Week 1 Results</button><br /><br />
             <table id="week1" border=".5" class="table table-bordered">
 
 
@@ -91,9 +89,8 @@
             </xsl:for-each>
             </table>
             </div>
-            </div>
             <div class="col-md-6">
-            <button class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn2" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week2" border=".5" class="table table-bordered">
 
 
@@ -116,7 +113,7 @@
             </xsl:for-each>
             </table>
             </div>
-            </div>
+
         
             <div id="rss">
                 <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
