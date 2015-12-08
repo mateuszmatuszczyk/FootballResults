@@ -7,10 +7,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<link href="css/bootstrap.min.css" rel="stylesheet"/> 
 		<link href="css/styles.css" rel="stylesheet"/>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
-	<script>
-		$(document).ready(function(){
+		<script>
+		    $(document).ready(function(){
 			$("#week1").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("button").click(function(){
@@ -18,24 +18,24 @@
 				$("img").fadeToggle("slow");
 				
 			});
-		});
-		</script>
-		<script> 
-		$(document).ready(function(){
-			$("#flip").click(function(){
-				$("#panel").slideToggle("slow");
-			});
-		});
+		    });
 		</script>
 		<script>
-		$j('.btn btn-primary').click(function(){
-    alert('Button Clicked');
-})
-</script>
-	</head>
-		<body>
-		
-		<div class="navbar navbar-inverse navbar-static-top">
+		    $(document).ready(function(){
+			$("#week2").fadeToggle("slow");
+				$("img").fadeToggle("slow");
+			$("button").click(function(){
+				$("#week2").fadeToggle("slow");
+				$("img").fadeToggle("slow");
+				
+			});
+		    });
+		</script>
+
+    </head>
+ <body>
+
+    <div class="navbar navbar-inverse navbar-static-top">
             <div class="container">
                 <a href="#" class="navbar-brand">RIA</a>
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
@@ -65,6 +65,8 @@
         
         
         <div class="container">
+            <div class="main">
+                <div class="btn1">
             <div class="col-md-6">
             <button class="btn btn-primary" type="button">Click to see Week 1 Results</button><br /><br />
             <table id="week1" border=".5" class="table table-bordered">
@@ -88,21 +90,42 @@
             </tr>
             </xsl:for-each>
             </table>
-        </div>
-        
-        <div id="rss">
-            <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
-            <a href="RSS/RssTest.xml">
-            <img src="http://www-prod-storage.cloud.caltech.edu.s3.amazonaws.com/RSS_button_1021.png" width="50" height="50"/>
-            Subscribe to What's New!
-            </a>
-        </div>
-        
-        
-    </div>
-    
+            </div>
+            </div>
+            <div class="col-md-6">
+            <button class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week2" border=".5" class="table table-bordered">
 
-            
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W2']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            </div>
+            </div>
+        
+            <div id="rss">
+                <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
+                <a href="RSS/RssTest.xml">
+                <img src="http://www-prod-storage.cloud.caltech.edu.s3.amazonaws.com/RSS_button_1021.png" width="50" height="50"/>
+                Subscribe to What's New!
+                </a>
+            </div>
+        </div>
         
              <div class="navbar navbar-inverse navbar-default navbar-fixed-bottom">
                 <div class="container">
