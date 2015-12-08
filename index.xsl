@@ -68,8 +68,7 @@
             </tr>
             </xsl:for-each>
             </table>
-            </div>
-            <div class="col-md-6">
+            
             <button id="Btn2" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week2" border=".5" class="table table-bordered">
 
@@ -92,6 +91,309 @@
             </tr>
             </xsl:for-each>
             </table>
+
+            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week3" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W3']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+
+            <button id="Btn4" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week4" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W4']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn5" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week5" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W5']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn6" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week6" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W6']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn7" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week7" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W7']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn8" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week8" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W8']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn9" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week9" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W9']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn10" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week10" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W10']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn11" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week11" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W11']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn12" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week12" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W12']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn13" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week13" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W13']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn14" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week14" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W14']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            <button id="Btn15" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <table id="week15" border=".5" class="table table-bordered">
+
+
+            <tr bgcolor="#9acd32">
+                <th style="text-align:left">Date</th>
+                <th style="text-align:left">Home Team</th>
+                <th style="text-align:left">Result</th>
+                <th style="text-align:left">Away Team</th>
+            </tr>
+            <xsl:for-each select="premierleague/fixtures/week[@id='W15']/match">
+
+
+            <tr>
+                <td><xsl:value-of select="date"/></td>
+                <td><xsl:value-of select="homeTeam"/></td>
+                <td><xsl:value-of select="Goals/homeTeamGoals"/>:
+                <xsl:value-of select="Goals/awayTeamGoals"/></td>
+                <td><xsl:value-of select="awayTeam"/></td>
+            </tr>
+            </xsl:for-each>
+            </table>
+            
+            </div>
+            <div class="col-md-6">
+
             </div>
 
         
