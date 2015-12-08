@@ -35,7 +35,7 @@
 			});
 		    });
 
- $(document).ready(function(){
+ 			$(document).ready(function(){
 			$("#week5").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn5").click(function(){
@@ -54,7 +54,7 @@
 			});
 		    });
 
- $(document).ready(function(){
+ 			$(document).ready(function(){
 			$("#week7").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn7").click(function(){
@@ -73,7 +73,7 @@
 			});
 		    });
 
- $(document).ready(function(){
+			$(document).ready(function(){
 			$("#week9").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn9").click(function(){
@@ -91,7 +91,7 @@
 				
 			});
 		    });
- $(document).ready(function(){
+ 			$(document).ready(function(){
 			$("#week11").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn11").click(function(){
@@ -110,7 +110,7 @@
 			});
 		    });
 
- $(document).ready(function(){
+ 			$(document).ready(function(){
 			$("#week13").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn13").click(function(){
@@ -129,7 +129,7 @@
 			});
 		    });
 
- $(document).ready(function(){
+			$(document).ready(function(){
 			$("#week15").fadeToggle("slow");
 				$("img").fadeToggle("slow");
 			$("#Btn15").click(function(){
