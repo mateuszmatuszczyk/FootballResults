@@ -6,22 +6,30 @@
 		<title>Premier League</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<link href="css/bootstrap.min.css" rel="stylesheet"/> 
-		<link href="css/styles.css" rel="stylesheet"/>
+		<link href="css/custom.css" rel="stylesheet"/>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
 	    <script src="js/buttonScript.js"></script>
     </head>
  <body>
-    <div class="navbar navbar-inverse navbar-static-top">
+      
+        <div id="banner">
+            <img src="img/PL_Banner.png" class="img-responsive" alt="Premier League Banner"/>
+        </div>
+      <!-- OLD NAVBAR
+      <div class="navbar navbar-static-top">
             <div class="container">
-                <a href="#" class="navbar-brand">RIA</a>
+                <a href="#" class="pull-left"><img src="img/PL_Banner.png" width="1366px" height="250px"/></a>
+                    
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+        </div>
+    </div>
 
-                    <div class="collapse navbar-collapse navHeaderCollapse">
+                  <div class="collapse navbar-collapse navHeaderCollapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li class="active"><a href="#">Home</a></li> 
                             <li><a href="#">Blog</a></li> 
@@ -36,9 +44,8 @@
                             <li><a href="#">About</a></li>
                             <li><a href="#">Contact</a></li> 
                         </ul>
-                    </div> 
-            </div>
-        </div>
+                    </div> -->
+        
         <div class="container">
             <div class="col-md-6">
             <button  id="Btn1" class="btn btn-primary" type="button">Click to see Week 1 Results</button><br /><br />
@@ -79,7 +86,7 @@
             </tr>
             </xsl:for-each>
             </table>
-            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 3 Results</button><br /><br />
             <table id="week3" border=".5" class="table table-bordered">
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
@@ -354,58 +361,61 @@
             </table>
             
     </div>
-             <div class="col-md-6">
+    
+            <!-- FORM allowing user to add records to PL.xml file --> 
+            <div class="col-md-6">
                 <form action="index.php" method="post" class="form-inline">
                     <div class="form-group">
-                         <input type="text" class="form-control" name="homeTeam" id="inputHT" placeholder="Home team">
+                         <input type="text" class="form-control" name="homeTeam" placeholder="Home Team">
                          </input>
                     </div>
                 </form>
                 <form class="form-inline">
                     <div class="form-group">
-                         <input type="text" class="form-control" name="awayTeam" id="inputAT" placeholder="Away Team">
+                         <input type="text" class="form-control" name="awayTeam" placeholder="Away Team">
                          </input>
                     </div>
                 </form>
                 <form class="form-inline">
                     <div class="form-group">
-                         <input type="text" class="form-control" id="inputDate" placeholder="Date">
+                         <input type="date" class="form-control" name="date" placeholder="Date">
                          </input>
                     </div>
                 </form>
                 <form class="form-inline">
                     <div class="form-group">
-                         <input type="text" class="form-control" id="inputResult" placeholder="result">
+                         <input type="text" class="form-control" id="homeTeamGoals" placeholder="Home Team Goals">
                          </input>
                     </div>
                 </form>
-                <button type="button" class="btn btn-primary">submit</button>
+                
+                <form class="form-inline">
+                    <div class="form-group">
+                         <input type="text" class="form-control" id="awayTeamGoals" placeholder="Away Team Goals">
+                         </input>
+                    </div>
+                
+                <input type="submit" value="Add Result" id="submitBtn" class="btn btn-primary"/>
+                </form>
            </div>
            
           
         
-            <div id="rss">
-                <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
-                <a href="RSS/RssTest.xml">
+           <!-- <div id="rss">
+                https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
+                <!-- <a href="RSS/RssTest.xml">
                 <img src="http://www-prod-storage.cloud.caltech.edu.s3.amazonaws.com/RSS_button_1021.png" width="50" height="50"/>
                 Subscribe to What's New!
                 </a>
-            </div>
+            </div> -->
         </div>
         
              <div class="navbar navbar-inverse navbar-default navbar-fixed-bottom">
                 <div class="container">
                     <p class="navbar-text pull-left">Created by Sam Quigley, Cian Harford &amp; Mateusz Matuszczyk.</p>
-                    <a href="#" class="navbar-btn btn btn-danger pull-right">Subscribe on youtube</a>
                 </div>
             </div>
-
-
-		
-		
-		
-		
-		</body>
+    </body>
 </html>
 </xsl:template>
 </xsl:stylesheet>
