@@ -12,5 +12,5 @@ $proc = new XSLTProcessor;
 $proc -> importStyleSheet($xsl); //attach the xsl rules
 
 echo $proc -> transformToXML($xml);
-
 ?>
+
