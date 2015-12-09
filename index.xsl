@@ -62,16 +62,16 @@
             </xsl:for-each>
        
             </table>
-<<<<<<< HEAD
+
             
             <button id="Btn2" class="btn btn-primary" type="button">Week 2 Results</button><br /><br />
             <table id="week2"  class="table table-responsive table-hover table-condensed">
 
 
-=======
+
             <button id="Btn2" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week2" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -88,16 +88,16 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
                                                                     
             <button id="Btn3" class="btn btn-primary" type="button">Week 3 Results</button><br /><br />
             <table id="week3"  class="table table-responsive table-hover table-condensed"> 
 
 
-=======
+
             <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week3" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -114,16 +114,16 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
 
             <button id="Btn4" class="btn btn-primary" type="button"> Week 4 Results</button><br /><br />
             <table id="week4"  class="table table-responsive table-hover table-condensed">
 
 
-=======
+
             <button id="Btn4" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week4" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -140,16 +140,16 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
             
             <button id="Btn5" class="btn btn-primary" type="button"> Week 5 Results</button><br /><br />
             <table id="week5"  class="table table-responsive table-hover table-condensed">
 
 
-=======
+
             <button id="Btn5" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week5" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -166,16 +166,16 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
             
             <button id="Btn6" class="btn btn-primary" type="button"> Week 6 Results</button><br /><br />
             <table id="week6"  class="table table-responsive table-hover table-condensed">
 
 
-=======
+
             <button id="Btn6" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week6" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -192,16 +192,16 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
             
             <button id="Btn7" class="btn btn-primary" type="button"> Week 7 Results</button><br /><br />
             <table id="week7"  class="table table-responsive table-hover table-condensed">
 
 
-=======
+
             <button id="Btn7" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week7" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
                 <th style="text-align:left">Home Team</th>
@@ -218,14 +218,14 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
+
             
             <button id="Btn8" class="btn btn-primary" type="button"> Week 8 Results</button><br /><br />
             <table id="week8"  class="table table-responsive table-hover table-condensed">
-=======
+
            <button id="Btn8" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week8" border=".5" class="table table-bordered">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
 
 
             <tr bgcolor="#9acd32">
@@ -408,14 +408,14 @@
             </xsl:for-each>
             </table>
             
-<<<<<<< HEAD
+
             </div>
             
             <div class="col-md-6">
-=======
+
     </div>
              <div class="col-md-6">
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
                 <form action="index.php" method="post" class="form-inline">
                     <div class="form-group">
                          <input type="text" class="form-control" name="homeTeam" id="inputHT" placeholder="Home team">
@@ -441,14 +441,14 @@
                     </div>
                 </form>
                 <button type="button" class="btn btn-primary">submit</button>
-<<<<<<< HEAD
+
             </div>
 
-=======
+
            </div>
            
           
->>>>>>> bf40ccce4d25a26b2d7b3d84977d76628527b52e
+
         
             <div id="rss">
                 <!-- https://preview.c9users.io/charford/ria/RSS/RssTest.xml?_c9_id=livepreview2&_c9_host=https://ide.c9.io -->
