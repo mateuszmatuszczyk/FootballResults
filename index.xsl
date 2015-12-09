@@ -8,8 +8,9 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet"/> 
 		<link href="css/custom.css" rel="stylesheet"/>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="js/bootstrap.js"></script>
+		<!-- <script src="js/bootstrap.js"></script> -->
 	    <script src="js/buttonScript.js"></script>
+	    
     </head>
  <body>
       
@@ -91,9 +92,6 @@
             </xsl:for-each>
             </table>
 
-
-
-=======
             <button id="Btn3" class="btn btn-primary" type="button">Week 3 Results</button><br /><br />
             <table id="week3" border=".5" class="table table-bordered">
 
@@ -382,7 +380,7 @@
             
 
             </div>
-
+            <div id="updateFormDiv" class="col-md-6">
                 <form action="index.php" method="post" class="form-inline">
                     <div class="form-group">
                          <input type="text" class="form-control" name="homeTeam" placeholder="Home Team">
