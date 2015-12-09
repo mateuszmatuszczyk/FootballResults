@@ -63,13 +63,8 @@
        
             </table>
 
-            
+
             <button id="Btn2" class="btn btn-primary" type="button">Week 2 Results</button><br /><br />
-            <table id="week2"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn2" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week2" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -89,13 +84,8 @@
             </xsl:for-each>
             </table>
 
-                                                                    
+
             <button id="Btn3" class="btn btn-primary" type="button">Week 3 Results</button><br /><br />
-            <table id="week3"  class="table table-responsive table-hover table-condensed"> 
-
-
-
-            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week3" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -116,12 +106,7 @@
             </table>
 
 
-            <button id="Btn4" class="btn btn-primary" type="button"> Week 4 Results</button><br /><br />
-            <table id="week4"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn4" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn4" class="btn btn-primary" type="button">Week 4 Results</button><br /><br />
             <table id="week4" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -141,13 +126,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn5" class="btn btn-primary" type="button"> Week 5 Results</button><br /><br />
-            <table id="week5"  class="table table-responsive table-hover table-condensed">
 
-
-
-            <button id="Btn5" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn5" class="btn btn-primary" type="button">Week 5 Results</button><br /><br />
             <table id="week5" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -167,13 +147,7 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn6" class="btn btn-primary" type="button"> Week 6 Results</button><br /><br />
-            <table id="week6"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn6" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn6" class="btn btn-primary" type="button">Week 6 Results</button><br /><br />
             <table id="week6" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -193,13 +167,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn7" class="btn btn-primary" type="button"> Week 7 Results</button><br /><br />
-            <table id="week7"  class="table table-responsive table-hover table-condensed">
 
-
-
-            <button id="Btn7" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn7" class="btn btn-primary" type="button">Week 7 Results</button><br /><br />
             <table id="week7" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -219,14 +188,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn8" class="btn btn-primary" type="button"> Week 8 Results</button><br /><br />
-            <table id="week8"  class="table table-responsive table-hover table-condensed">
-
-           <button id="Btn8" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+           <button id="Btn8" class="btn btn-primary" type="button">Week 8 Results</button><br /><br />
             <table id="week8" border=".5" class="table table-bordered">
-
-
 
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
@@ -410,10 +373,6 @@
             
 
             </div>
-            
-            <div class="col-md-6">
-
-    </div>
              <div class="col-md-6">
 
                 <form action="index.php" method="post" class="form-inline">
@@ -457,7 +416,7 @@
                 Subscribe to What's New!
                 </a>
             </div>
-        </div>
+
         
              <div class="navbar navbar-inverse navbar-default navbar-fixed-bottom">
                 <div class="container">
