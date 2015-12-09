@@ -19,12 +19,8 @@
       <!-- OLD NAVBAR
       <div class="navbar navbar-static-top">
             <div class="container">
-<<<<<<< HEAD
                 <a href="#" class="pull-left"><img src="img/PL_Banner.png" width="1366px" height="250px"/></a>
                     
-=======
-                <a href="#" class="navbar-brand">Premier League</a>
->>>>>>> ec780a7034501363b4ae39fb5dc378d6db986d69
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -74,13 +70,8 @@
        
             </table>
 
-            
+
             <button id="Btn2" class="btn btn-primary" type="button">Week 2 Results</button><br /><br />
-            <table id="week2"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn2" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
             <table id="week2" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -99,18 +90,11 @@
             </tr>
             </xsl:for-each>
             </table>
-<<<<<<< HEAD
-            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 3 Results</button><br /><br />
+
+
+
 =======
-
-                                                                    
             <button id="Btn3" class="btn btn-primary" type="button">Week 3 Results</button><br /><br />
-            <table id="week3"  class="table table-responsive table-hover table-condensed"> 
-
-
-
-            <button id="Btn3" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
->>>>>>> ec780a7034501363b4ae39fb5dc378d6db986d69
             <table id="week3" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -131,12 +115,7 @@
             </table>
 
 
-            <button id="Btn4" class="btn btn-primary" type="button"> Week 4 Results</button><br /><br />
-            <table id="week4"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn4" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn4" class="btn btn-primary" type="button">Week 4 Results</button><br /><br />
             <table id="week4" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -156,13 +135,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn5" class="btn btn-primary" type="button"> Week 5 Results</button><br /><br />
-            <table id="week5"  class="table table-responsive table-hover table-condensed">
 
-
-
-            <button id="Btn5" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn5" class="btn btn-primary" type="button">Week 5 Results</button><br /><br />
             <table id="week5" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -182,13 +156,7 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn6" class="btn btn-primary" type="button"> Week 6 Results</button><br /><br />
-            <table id="week6"  class="table table-responsive table-hover table-condensed">
-
-
-
-            <button id="Btn6" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn6" class="btn btn-primary" type="button">Week 6 Results</button><br /><br />
             <table id="week6" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -208,13 +176,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn7" class="btn btn-primary" type="button"> Week 7 Results</button><br /><br />
-            <table id="week7"  class="table table-responsive table-hover table-condensed">
 
-
-
-            <button id="Btn7" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+            <button id="Btn7" class="btn btn-primary" type="button">Week 7 Results</button><br /><br />
             <table id="week7" border=".5" class="table table-bordered">
 
             <tr bgcolor="#9acd32">
@@ -234,14 +197,8 @@
             </xsl:for-each>
             </table>
 
-            
-            <button id="Btn8" class="btn btn-primary" type="button"> Week 8 Results</button><br /><br />
-            <table id="week8"  class="table table-responsive table-hover table-condensed">
-
-           <button id="Btn8" class="btn btn-primary" type="button">Click to see Week 2 Results</button><br /><br />
+           <button id="Btn8" class="btn btn-primary" type="button">Week 8 Results</button><br /><br />
             <table id="week8" border=".5" class="table table-bordered">
-
-
 
             <tr bgcolor="#9acd32">
                 <th style="text-align:left">Date</th>
@@ -425,18 +382,7 @@
             
 
             </div>
-            
-            <div class="col-md-6">
 
-    </div>
-<<<<<<< HEAD
-    
-            <!-- FORM allowing user to add records to PL.xml file --> 
-            <div class="col-md-6">
-=======
-             <div class="col-md-6">
-
->>>>>>> ec780a7034501363b4ae39fb5dc378d6db986d69
                 <form action="index.php" method="post" class="form-inline">
                     <div class="form-group">
                          <input type="text" class="form-control" name="homeTeam" placeholder="Home Team">
@@ -461,7 +407,6 @@
                          </input>
                     </div>
                 </form>
-<<<<<<< HEAD
                 
                 <form class="form-inline">
                     <div class="form-group">
@@ -471,13 +416,6 @@
                 
                 <input type="submit" value="Add Result" id="submitBtn" class="btn btn-primary"/>
                 </form>
-=======
-                <button type="button" class="btn btn-primary">submit</button>
-
-            </div>
-
-
->>>>>>> ec780a7034501363b4ae39fb5dc378d6db986d69
            </div>
            
           
